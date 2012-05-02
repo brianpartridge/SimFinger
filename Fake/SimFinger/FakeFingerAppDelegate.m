@@ -177,7 +177,7 @@ void WindowFrameDidChangeCallback( AXObserverRef observer, AXUIElementRef elemen
 
 - (NSString *)iosVersion
 {
-	return @"4.0.2";
+	return @"5.0";
 }
 
 - (NSString *)springboardPrefsPath
